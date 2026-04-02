@@ -13,12 +13,8 @@ The framework is designed to address subtle motion differences, dense classroom 
 
 > Overall framework of HDSQ.
 
----
-
 ## Installation
 
 Please find installation instructions in [install.md](install.md). This project is mainly developed and evaluated on the [SAV](https://github.com/Ritatanz/SAV) dataset.
-
----
 
 ## Contributors
